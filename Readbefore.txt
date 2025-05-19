@@ -1,0 +1,1 @@
+This simulation of BLDC FOC with Mathematical modelling is currently not working as expected. Because it is reaching negative speed even if the reference given is positive
